@@ -1,0 +1,2 @@
+(this.webpackJsonpsk8_layout=this.webpackJsonpsk8_layout||[]).push([[6],{154:function(t,s,e){"use strict";e.r(s);e(0);var i=e(6);s.default=function(){return Object(i.jsx)("div",{children:"Register"})}}}]);
+//# sourceMappingURL=6.812f5e9f.chunk.js.map
